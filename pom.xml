@@ -13,6 +13,8 @@
         <module>springprovider</module>
         <module>springribbon</module>
         <module>springfreemarker</module>
+        <module>springfreemarker</module>
+        <module>springfreemarkern</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
