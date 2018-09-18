@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloudserver" />
+        <module name="springfreemarkern" />
+        <module name="springmybatis" />
         <module name="springprovider" />
         <module name="springribbon" />
       </profile>
@@ -15,6 +17,8 @@
       <module name="cloudserver" target="1.8" />
       <module name="shirospring" target="1.8" />
       <module name="springcloudparent" target="1.8" />
+      <module name="springfreemarkern" target="1.8" />
+      <module name="springmybatis" target="1.8" />
       <module name="springprovider" target="1.8" />
       <module name="springribbon" target="1.8" />
     </bytecodeTargetLevel>

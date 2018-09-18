@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/cloudserver/cloudserver.iml" filepath="$PROJECT_DIR$/cloudserver/cloudserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudparent.iml" filepath="$PROJECT_DIR$/springcloudparent.iml" />
       <module fileurl="file://$PROJECT_DIR$/springfreemarkern/springfreemarkern.iml" filepath="$PROJECT_DIR$/springfreemarkern/springfreemarkern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmybatis/springmybatis.iml" filepath="$PROJECT_DIR$/springmybatis/springmybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springprovider/springprovider.iml" filepath="$PROJECT_DIR$/springprovider/springprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/springribbon/springribbon.iml" filepath="$PROJECT_DIR$/springribbon/springribbon.iml" />
     </modules>

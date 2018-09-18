@@ -5,12 +5,12 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springfreemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/springfreemarkern/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/shirospring/pom.xml" />
       </set>
     </option>
   </component>
