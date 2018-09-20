@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bootspring/bootspring.iml" filepath="$PROJECT_DIR$/bootspring/bootspring.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloudserver/cloudserver.iml" filepath="$PROJECT_DIR$/cloudserver/cloudserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudparent.iml" filepath="$PROJECT_DIR$/springcloudparent.iml" />
       <module fileurl="file://$PROJECT_DIR$/springfreemarkern/springfreemarkern.iml" filepath="$PROJECT_DIR$/springfreemarkern/springfreemarkern.iml" />

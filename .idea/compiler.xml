@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bootspring" />
         <module name="cloudserver" />
         <module name="springfreemarkern" />
         <module name="springmybatis" />
@@ -14,6 +15,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="bootspring" target="1.8" />
       <module name="cloudserver" target="1.8" />
       <module name="shirospring" target="1.8" />
       <module name="springcloudparent" target="1.8" />

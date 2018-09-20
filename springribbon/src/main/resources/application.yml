@@ -1,7 +1,7 @@
 eureka:
   client:
-    defaultZone: http://localhost:8888/eureka
-
+    service-url:
+      defaultZone: http://peer1:8881/eureka,http://peer2:8882/eureka
 server:
   port: 8764
 
